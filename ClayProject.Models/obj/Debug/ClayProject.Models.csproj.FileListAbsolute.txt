@@ -1,0 +1,6 @@
+C:\Users\greys\source\repos\ClayProjectMock\ClayProject.Models\bin\Debug\ClayProject.Models.dll
+C:\Users\greys\source\repos\ClayProjectMock\ClayProject.Models\bin\Debug\ClayProject.Models.pdb
+C:\Users\greys\source\repos\ClayProjectMock\ClayProject.Models\obj\Debug\ClayProject.Models.csprojAssemblyReference.cache
+C:\Users\greys\source\repos\ClayProjectMock\ClayProject.Models\obj\Debug\ClayProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\greys\source\repos\ClayProjectMock\ClayProject.Models\obj\Debug\ClayProject.Models.dll
+C:\Users\greys\source\repos\ClayProjectMock\ClayProject.Models\obj\Debug\ClayProject.Models.pdb

@@ -1,0 +1,15 @@
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\bin\Debug\ClayProjectMock.exe.config
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\bin\Debug\ClayProjectMock.exe
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\bin\Debug\ClayProjectMock.pdb
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\obj\Debug\ClayProjectMock.csprojAssemblyReference.cache
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\obj\Debug\ClayProjectMock.Properties.Resources.resources
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\obj\Debug\ClayProjectMock.Start.resources
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\obj\Debug\ClayProjectMock.csproj.GenerateResource.cache
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\obj\Debug\ClayProjectMock.csproj.CoreCompileInputs.cache
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\obj\Debug\ClayProjectMock.exe
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\obj\Debug\ClayProjectMock.pdb
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\obj\Debug\ClayProjectMock.New.resources
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\bin\Debug\ClayProject.Models.dll
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\bin\Debug\ClayProject.Models.pdb
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\obj\Debug\ClayProjectMock.csproj.CopyComplete
+C:\Users\greys\source\repos\ClayProjectMock\ClayProjectMock\obj\Debug\ClayProjectMock.Fight.resources
